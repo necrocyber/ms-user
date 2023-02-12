@@ -1,0 +1,13 @@
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/MS-USER
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/appsettings.Development.json
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/appsettings.json
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/MS-USER.dll
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/MS-USER.deps.json
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/MS-USER.runtimeconfig.json
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/MS-USER.pdb
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/Newtonsoft.Json.dll
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jmedelc/PROJECTS/MS-USER/MS-USER/bin/Release/net5.0/publish/websocket-sharp-core.dll

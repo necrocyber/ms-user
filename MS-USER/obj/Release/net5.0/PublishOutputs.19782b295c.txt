@@ -1,0 +1,13 @@
+/Users/jmedelc/ripley/api/ms-user/MS-USER
+/Users/jmedelc/ripley/api/ms-user/appsettings.Development.json
+/Users/jmedelc/ripley/api/ms-user/appsettings.json
+/Users/jmedelc/ripley/api/ms-user/MS-USER.dll
+/Users/jmedelc/ripley/api/ms-user/MS-USER.deps.json
+/Users/jmedelc/ripley/api/ms-user/MS-USER.runtimeconfig.json
+/Users/jmedelc/ripley/api/ms-user/MS-USER.pdb
+/Users/jmedelc/ripley/api/ms-user/Microsoft.OpenApi.dll
+/Users/jmedelc/ripley/api/ms-user/Newtonsoft.Json.dll
+/Users/jmedelc/ripley/api/ms-user/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jmedelc/ripley/api/ms-user/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jmedelc/ripley/api/ms-user/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jmedelc/ripley/api/ms-user/websocket-sharp-core.dll
